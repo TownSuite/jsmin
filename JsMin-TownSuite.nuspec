@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>JsMin-TownSuite</id>
+    <version>1.0</version>
+    <authors>Peter Gill</authors>
+    <owners>Peter Gill</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Minify javascript.</description>
+    <releaseNotes />
+    <tags>javascript</tags>
+  </metadata>
+</package>
